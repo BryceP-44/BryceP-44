@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryce.
 - 👀 I’m interested in math and physics.
-I like to make programs from scratch and only use external library functions when necessary.
+I like to only use external library functions when it's necessary.
 
 
 <!---
