@@ -4,7 +4,7 @@ If you are one of the only people to ever see my profile, congratulations! (I do
 I mostly like to express math concepts with code. I am a mechanical engineering student at Pitt.<br />
 I taught myself to code when I was younger, so I really don't know any proper techniques or code formatting and I am sorry if that makes you cringe but it all makes perfect sense to me \\(^o^)/<br />
 I just imagine GitHub as my online flash drive that I can keep my homework solvers on.<br />
-I don't really upload any of my Arduino, C, MATLAB, Mathematica, or Processing stuff on here because they're all very specific applications and don't really have a use to be on here.
+I don't upload any of my Arduino, C, MATLAB, Mathematica, or Processing stuff on here because they're all very specific applications and don't really have a use to be on here.
 
 
 <!---
